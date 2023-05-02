@@ -1,0 +1,11 @@
+
+
+.big-title{
+    font-size: 10rem;
+    color:blue;
+    font-family: cursive;
+    cursor: pointer;
+}
+.margin-50{
+    margin: 50px;
+}
